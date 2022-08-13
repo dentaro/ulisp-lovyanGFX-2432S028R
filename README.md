@@ -6,7 +6,7 @@ https://lang-ship.com/blog/work/esp32-2432s028r-1/
 
 こちらで紹介されているデバイス（2.8インチタッチパネル付きESP32-2432S028R）で、
 
-uLisp（マイクロLisp)で遊ぶためのArduinoスケッチです。
+uLisp（マイクロLisp)を遊ぶためのArduinoスケッチです。
 
 2432S028R.hのピンアサイン設定を変えればM5stackなどでも動くと思います。
 
