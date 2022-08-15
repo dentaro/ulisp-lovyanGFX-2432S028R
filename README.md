@@ -45,3 +45,18 @@ Arduinoのシリアルで以下を送る（NewLineモードで）
 http://www.ulisp.com/show?2YRM
 
 以上です！
+
+--
+・コード内容の覚えがきを書いておきます。
+12行目～
+コンパイルオプションです。
+使いたい機能のコメントアウトを外して下さい。、
+
+// #define resetautorun
+ #define printfreespace//プリント関連？
+// #define printgcs
+// #define sdcardsupport //SDカード //http://www.ulisp.com/show?207M
+ #define gfxsupport    //LovyanGFX
+// #define lisplibrary
+// #define lineeditor
+// #define vt100
